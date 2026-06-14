@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "amir123484-AFei.aternos.me",
-    "port": 37399,
-    "version": "1.20.1"
+    "ip": "amir123484.aternos.me",
+    "port": 33633,
+    "version": "1.21.1"
   },
   "position": {
     "enabled": true,
